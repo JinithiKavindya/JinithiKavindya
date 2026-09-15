@@ -3,15 +3,15 @@
 Interested in Data Science, Programming and Data Analytics
 
 ### Programming & Web Development
-HTML
-C#
-Object Oriented Programming
-Python
-Java Script
-CSS
-PHP
-SQL & Database
-R Programming
+-HTML
+-C#
+-Object Oriented Programming
+-Python
+-Java Script
+-CSS
+-PHP
+-SQL & Database
+-R Programming
 
 ### Database & Information Management
 SQL
