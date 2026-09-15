@@ -1,16 +1,60 @@
-## Hi there 👋
+#Hi, I'm Jinithi Kavindya
+2nd Year Data Science Undergraduate
+Interested in Data Science, Programming and Data Analytics
 
-<!--
-**JinithiKavindya/JinithiKavindya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Programming & Web Development
+HTML
+C#
+Object Oriented Programming
+Python
+Java Script
+CSS
+PHP
+SQL & Database
+R Programming
 
-Here are some ideas to get you started:
+### Database & Information Management
+SQL
+Database Management System
+Information Management & Retrieval
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Data Structures & Algorithms
+Data Structures
+Algorithms
+Pseudocode
+
+### System Analysis and Design
+Requirement Analysis
+Requirement Gathering
+SDLC & SDLC models
+UML
+Use Case Diagrams
+ER Diagrams
+System Analysis & Design
+
+### Mathematics & Computing
+Mathematics for Computing
+Statistics
+Computational Theory
+
+### Computer System
+Introduction to Computer Science
+Computer Architecture
+
+### Currently Learning
+Data Science
+R Programming
+Statistics for Computing
+Information Management & Retrieval
+
+### Goals
+Build real - world projects
+Improve my Programming skills
+Develop strong Data Science skills
+Build a Professional Portfolio
+
+
+
+
+
+
